@@ -1,11 +1,15 @@
 # Seere v3 Drawing UI Library (and esp)
 god has blessed me with seeres new ui in my clipboard 🙏 - fiji
 
-## Preview
+## UI Preview
 
 ![Menu Preview](https://i.imgur.com/vzCdDoX.png)
 
-## Example
+## ESP Preview
+
+![ESP Preview](https://i.imgur.com/Q1hleZs.png)
+
+## UI Example
 Note: this example is very basic, there are many unlisted features of this UI library and it's up to you to go through the code and figure it out. 
 
 A few examples of unnamed features: watermark, library functions, functions/features for options, config related shit, etc.
@@ -37,3 +41,20 @@ library:notify({text = "loaded", time = 5})
 library:set_open(true)
 ```
 
+## ESP Example
+```lua
+local esp = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/sv3/main/ESP/v3_esp.lua'))()
+
+esp.enabled = true
+
+esp.teamcheck = false
+
+esp.outlines = true
+esp.shortnames = true
+esp.team_boxes = {true,Color3.fromRGB(255,255,255),Color3.fromRGB(1,1,1),0}
+esp.team_chams = {true,Color3.fromRGB(138, 139, 194),Color3.fromRGB(138, 139, 194),.25,.75,true}
+esp.team_names = {true,Color3.fromRGB(255,255,255)}
+esp.team_weapon = { true, Color3.fromRGB(255,255,255)}
+esp.team_distance = true
+esp.team_health = true
+```
