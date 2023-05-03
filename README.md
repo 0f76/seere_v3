@@ -16,7 +16,7 @@ Note: this example is very basic, there are many unlisted features of this UI li
 
 A few examples of unnamed features: watermark, library functions, functions/features for options, config related shit, etc.
 ```lua
-local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/sv3/main/UI/Library.lua'))()
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/seere_v3/main/UI/Library.lua'))()
 
 local window = library:new({name = "Seere", sub = " v3", offset = 0, size = Vector2.new(600, 650)})
 local pages = {
@@ -45,7 +45,7 @@ library:set_open(true)
 
 ## ESP Example
 ```lua
-local esp = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/sv3/main/ESP/v3_esp.lua'))()
+local esp = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/seere_v3/main/ESP/v3_esp.lua'))()
 
 esp.enabled = true
 
