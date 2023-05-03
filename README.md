@@ -1,6 +1,10 @@
 # Seere v3 Drawing UI Library.
 god has blessed me with seeres new ui in my clipboard 🙏 - fiji
 
+## Preview
+
+![Menu Preview](https://i.imgur.com/vzCdDoX.png)
+
 ## Example
 Note: this example is very basic, there are many unlisted features of this UI library and it's up to you to go through the code and figure it out. 
 
