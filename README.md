@@ -1,8 +1,8 @@
 # Seere v3 Drawing UI Library.
 god has blessed me with seeres new ui in my clipboard 🙏 - fiji
 
-## Documentation
-Note: this documentation is very basic, there are many unlisted features of this UI library and it's up to you to go through the code and figure it out. 
+## Example
+Note: this example is very basic, there are many unlisted features of this UI library and it's up to you to go through the code and figure it out. 
 
 A few examples of unnamed features: watermark, library functions, functions/features for options, config related shit, etc.
 ```lua
