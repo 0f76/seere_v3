@@ -6,7 +6,7 @@ Note: this documentation is very basic, there are many unlisted features of this
 
 A few examples of unnamed features: watermark, library functions, functions/features for options, config related shit, etc.
 ```lua
-local library = loadstring(game:HttpGet('https://site.com/lib.lua'))()
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/seere_v3/main/UI/Library.lua'))()
 
 local window = library:new({name = "Seere", sub = " v3", offset = 0, size = Vector2.new(600, 650)})
 local pages = {
