@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/seere_v3/main/UI/Library.lua'))()
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/sv3/main/UI/Library.lua'))()
 
 local window = library:new({name = "Seere", sub = " v3", offset = 0, size = Vector2.new(600, 650)})
 local pages = {
