@@ -1,4 +1,4 @@
-local esp = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/sv3/main/ESP/v3_esp.lua'))()
+local esp = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/seere_v3/main/ESP/v3_esp.lua'))()
 
 esp.enabled = true
 
