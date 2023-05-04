@@ -3,6 +3,7 @@ local startUpArgs = getgenv().startUpArgs or { 'universal', 'public' }
     --obleus remake
     --ignore the shitty code
     --made by Portal#4849
+    --LEAKED BY FIJI https://v3rmillion.net/showthread.php?tid=1208282
 --]]
 
 local drawing  = loadstring(syn.request({Url = 'https://gist.githubusercontent.com/0f76/9dc85c8c380d895373dd306fd372fa59/raw/e2abc40c2b5f159d61b10558c86e4f98823e30f5/drawing_extension.lua', Method = 'GET'}).Body)()
