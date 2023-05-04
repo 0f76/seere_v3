@@ -1,3 +1,5 @@
+--[[LEAKED BY FIJI https://v3rmillion.net/showthread.php?tid=1208282 ]]
+
 local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/seere_v3/main/UI/Library.lua'))()
 
 local window = library:new({name = "Seere", sub = " v3", offset = 0, size = Vector2.new(600, 650)})
