@@ -1,3 +1,5 @@
+--[[LEAKED BY FIJI https://v3rmillion.net/showthread.php?tid=1208282 ]]
+
 local esp = loadstring(game:HttpGet('https://raw.githubusercontent.com/0f76/seere_v3/main/ESP/v3_esp.lua'))()
 
 esp.enabled = true
